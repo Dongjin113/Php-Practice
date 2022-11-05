@@ -1,0 +1,29 @@
+header{
+    background-color:blue; /*백그라운드색*/
+    height:50px; /*백그라운드 넓이*/
+    line-height:50px; /*글자높이위치*/
+
+    font-size : 20px ; color : #ffffff ;  /*글자 색깔 빨빨녹녹파파*/
+    text-align:center;   /*글자를 가운대로*/
+}
+nav{
+    background-color:#6699ff; /*백그라운드색*/
+    height:30px; /*백그라운드 넓이*/
+    line-height:30px; /*글자높이위치*/
+
+    font-size : 13px ; color : #ffffff ;  /*글자 색깔 빨빨녹녹파파*/
+}
+section{
+    background-color:#cccccc; /*백그라운드색*/
+    font-size : 12px ;
+    min-height:500px; /*글자높이위치*/
+}
+
+footer{
+    background-color:blue; /*백그라운드색*/
+    height:40px; /*백그라운드 넓이*/
+    line-height:20px; /*글자높이위치*/
+
+    font-size : 14px ; color : #ffffff ;  /*글자 색깔 빨빨녹녹파파*/
+    text-align:center;   /*글자를 가운대로*/
+}
